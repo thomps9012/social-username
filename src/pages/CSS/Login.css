@@ -1,12 +1,23 @@
 .Login {
-    font-family: 'Work Sans', sans-serif;
-    margin: 10vh;
+    font-family: 'Acme', sans-serif;
+    margin: 25vh;
     position: center;
-    margin-top: 25vh;
+    /* margin-top: 25vh; */
 }
 .email{
     font-size: x-large;
 }
 .password{
     font-size: x-large;
+}
+#signIn{
+    margin: 10px;
+    float: left;
+}
+#signUp{
+    margin: 10px;
+    float: right;
+}
+#title{
+    text-align: center;
 }

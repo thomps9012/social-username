@@ -1,0 +1,12 @@
+.SignIn {
+    font-family: 'Acme', sans-serif;
+    margin: 10vh;
+    position: center;
+    margin-top: 25vh;
+}
+.email{
+    font-size: x-large;
+}
+.password{
+    font-size: x-large;
+}
